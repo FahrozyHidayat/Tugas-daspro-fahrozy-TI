@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\DasproAdventure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\DasproAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\DasproAdventure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\DasproAdventure.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\DasproAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DasproAdventure\bin\Debug\net6.0\DasproAdventure.exe
+C:\Users\Lenovo\Desktop\DasproAdventure\bin\Debug\net6.0\DasproAdventure.deps.json
+C:\Users\Lenovo\Desktop\DasproAdventure\bin\Debug\net6.0\DasproAdventure.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DasproAdventure\bin\Debug\net6.0\DasproAdventure.dll
+C:\Users\Lenovo\Desktop\DasproAdventure\bin\Debug\net6.0\DasproAdventure.pdb
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\DasproAdventure.dll
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\refint\DasproAdventure.dll
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\DasproAdventure.pdb
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\DasproAdventure.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\DasproAdventure\obj\Debug\net6.0\ref\DasproAdventure.dll

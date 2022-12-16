@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Soal 2 UTS\bin\Debug\net6.0\Soal 2 UTS.exe
+C:\Users\Lenovo\Desktop\Soal 2 UTS\bin\Debug\net6.0\Soal 2 UTS.deps.json
+C:\Users\Lenovo\Desktop\Soal 2 UTS\bin\Debug\net6.0\Soal 2 UTS.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Soal 2 UTS\bin\Debug\net6.0\Soal 2 UTS.dll
+C:\Users\Lenovo\Desktop\Soal 2 UTS\bin\Debug\net6.0\Soal 2 UTS.pdb
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\Soal 2 UTS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\Soal 2 UTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\Soal 2 UTS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\Soal 2 UTS.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\Soal 2 UTS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\Soal 2 UTS.dll
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\refint\Soal 2 UTS.dll
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\Soal 2 UTS.pdb
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\Soal 2 UTS.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Soal 2 UTS\obj\Debug\net6.0\ref\Soal 2 UTS.dll

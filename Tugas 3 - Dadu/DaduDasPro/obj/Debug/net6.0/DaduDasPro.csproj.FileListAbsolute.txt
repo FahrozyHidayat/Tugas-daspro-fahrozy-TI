@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\DaduDasPro.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\DaduDasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\DaduDasPro.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\DaduDasPro.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\DaduDasPro.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DaduDasPro\bin\Debug\net6.0\DaduDasPro.exe
+C:\Users\Lenovo\Desktop\DaduDasPro\bin\Debug\net6.0\DaduDasPro.deps.json
+C:\Users\Lenovo\Desktop\DaduDasPro\bin\Debug\net6.0\DaduDasPro.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DaduDasPro\bin\Debug\net6.0\DaduDasPro.dll
+C:\Users\Lenovo\Desktop\DaduDasPro\bin\Debug\net6.0\DaduDasPro.pdb
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\DaduDasPro.dll
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\refint\DaduDasPro.dll
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\DaduDasPro.pdb
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\DaduDasPro.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\DaduDasPro\obj\Debug\net6.0\ref\DaduDasPro.dll

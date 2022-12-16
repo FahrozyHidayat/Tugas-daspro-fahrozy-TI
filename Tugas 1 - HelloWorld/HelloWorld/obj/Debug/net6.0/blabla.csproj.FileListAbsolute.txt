@@ -1,0 +1,15 @@
+C:\Users\KEKE\Desktop\blabla\bin\Debug\net6.0\blabla.exe
+C:\Users\KEKE\Desktop\blabla\bin\Debug\net6.0\blabla.deps.json
+C:\Users\KEKE\Desktop\blabla\bin\Debug\net6.0\blabla.runtimeconfig.json
+C:\Users\KEKE\Desktop\blabla\bin\Debug\net6.0\blabla.dll
+C:\Users\KEKE\Desktop\blabla\bin\Debug\net6.0\blabla.pdb
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\blabla.csproj.AssemblyReference.cache
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\blabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\blabla.AssemblyInfoInputs.cache
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\blabla.AssemblyInfo.cs
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\blabla.csproj.CoreCompileInputs.cache
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\blabla.dll
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\refint\blabla.dll
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\blabla.pdb
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\blabla.genruntimeconfig.cache
+C:\Users\KEKE\Desktop\blabla\obj\Debug\net6.0\ref\blabla.dll

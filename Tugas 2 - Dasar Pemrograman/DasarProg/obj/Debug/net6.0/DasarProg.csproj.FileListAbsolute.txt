@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\DasarProg\bin\Debug\net6.0\DasarProg.exe
+C:\Users\Lenovo\Desktop\DasarProg\bin\Debug\net6.0\DasarProg.deps.json
+C:\Users\Lenovo\Desktop\DasarProg\bin\Debug\net6.0\DasarProg.runtimeconfig.json
+C:\Users\Lenovo\Desktop\DasarProg\bin\Debug\net6.0\DasarProg.dll
+C:\Users\Lenovo\Desktop\DasarProg\bin\Debug\net6.0\DasarProg.pdb
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\DasarProg.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\DasarProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\DasarProg.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\DasarProg.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\DasarProg.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\DasarProg.dll
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\refint\DasarProg.dll
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\DasarProg.pdb
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\DasarProg.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\DasarProg\obj\Debug\net6.0\ref\DasarProg.dll
